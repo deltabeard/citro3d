@@ -1,0 +1,6 @@
+<map id="C3D_Light" name="C3D_Light">
+<area shape="rect" id="node1" title=" " alt="" coords="66,199,149,225"/>
+<area shape="rect" id="node2" href="$structC3D__LightLut.html" title=" " alt="" coords="5,95,108,121"/>
+<area shape="rect" id="node3" href="$structC3D__LightConf.html" title=" " alt="" coords="132,95,243,121"/>
+<area shape="rect" id="node4" href="$structC3D__LightMatConf.html" title=" " alt="" coords="121,5,253,32"/>
+</map>
